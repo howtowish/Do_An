@@ -1,0 +1,116 @@
+body{
+ 
+background-color:#ecf0f1;
+    
+}
+
+
+#font1{
+   
+    font-size: 20px;
+    color: #ecf0f1 ;
+    float: left;
+    
+    
+}
+
+#font2{
+    
+    font-size: 20px;
+    color: #ecf0f1;
+    float: right;
+}
+
+.carousel-inner{
+    height: 100%;
+}
+.carousel slide{
+    height: 100%;
+}
+
+.div_left table {
+    border-collapse: collapse;
+    width: 50%;
+    float: center;
+    
+}
+.div_left td{
+  border: 1px solid white;
+    border-collapse: collapse;
+    height: 50px;
+    text-align:left;
+    
+}
+
+a{
+    color: #191970;
+    cursor: pointer;
+}
+a:hover{
+    color: cadetblue;
+}
+
+/*---body_left---*/
+
+/*----danh mục menu ----*/
+.col-sm-4{
+	
+    border-radius: 10px;
+    color: #ecf0f1;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.col-sm-4 ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.col-sm-4 li{
+    padding: 10px 0px 10px 10px;
+    border-bottom: 1px solid #2d2d2d;
+   text-decoration: none;
+}
+
+.col-sm-4 a:hover{
+    color: #2d2d2d;
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+.col-sm-7{
+    margin: 40px;
+}
+
+-----/*bảng*/-----
+
+.search-box {  
+border-radius: 3px;    
+background: #fff;  
+border: 1px solid #ddd;
+
+}
+
+
+----/*FOOTER*/----------
+
+.footer{
+    
+    height: 250px;
+    
+    text-align:center;
+  
+ 
+    color: #ecf0f1;
+    
+    
+}
+.footer_div1 h3{
+    color: #e74c3c;
+    
+   
+}
+
+
+
+
